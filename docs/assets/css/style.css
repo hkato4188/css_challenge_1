@@ -98,12 +98,12 @@ a {
   text-decoration: none;
 }
 
-.portfolio {
+#portfolio {
   color: #f66b0e;
 }
 
 
-.portfolio:hover {
+#portfolio:hover {
   color: #005691;;
 }
 
