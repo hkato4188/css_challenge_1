@@ -25,6 +25,10 @@ h3 {
   color: #c84b31;
 }
 
+br {
+  line-height: 5rem;
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -35,8 +39,12 @@ hr {
   margin-bottom: 2rem;
 }
 
-p {
-  line-height: 2;
+div {
+  line-height: 2.5rem;
+}
+
+.right {
+  margin-left: 50%;
 }
 
 .skill-row {
@@ -166,6 +174,11 @@ a {
   max-height: 13%;
   max-width: 13%;
   margin-left: 2rem;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
 }
 
 .navy-background {
